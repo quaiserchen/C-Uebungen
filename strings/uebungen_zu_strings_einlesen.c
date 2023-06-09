@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
+    //das ist ein test kommentar
 
     char eingabe[100];
 
